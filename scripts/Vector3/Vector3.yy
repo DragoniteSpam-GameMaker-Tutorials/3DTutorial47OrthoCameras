@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "3DTutorial47OrthoCameras",
-    "path": "3DTutorial47OrthoCameras.yyp",
+  "$GMScript":"v1",
+  "%Name":"Vector3",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vector3",
+  "parent":{
+    "name":"3DTutorial47OrthoCameras",
+    "path":"3DTutorial47OrthoCameras.yyp",
   },
-  "resourceVersion": "1.0",
-  "name": "Vector3",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
